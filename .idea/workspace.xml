@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4fec452e-59f0-4500-937c-c209f78494e0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmete/_00_hibernateUser/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmete/_00_hibernateUser/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmete/_00_hibernateUser/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmete/_01_hibernateSatis/GeneratedValueStratejileri.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmete/_01_hibernateSatis/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmete/_01_hibernateSatis/entity/BaseEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmete/_01_hibernateSatis/entity/Musteri.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmete/_01_hibernateSatis/entity/Satis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmete/_01_hibernateSatis/enums/ECinsiyet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmete/_01_hibernateSatis/enums/EYetki.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmete/_01_hibernateSatis/hbm2ddlTipleri.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmete/_02_hibernateNative/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmete/_02_hibernateNative/entity/Musteri.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmete/_02_hibernateNative/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmete/_02_hibernateNative/utility/HibernateUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmete/_03_HibernateOgrenci/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmete/_03_HibernateOgrenci/Uyg.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmete/_03_HibernateOgrenci/entity/Adres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmete/_03_HibernateOgrenci/entity/Ogrenci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmete/_03_HibernateOgrenci/enums/ECinsiyet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmete/_03_HibernateOgrenci/repository/ICrud.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmete/_03_HibernateOgrenci/repository/OgrenciRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmete/_03_HibernateOgrenci/repository/RepositoryManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmete/_03_HibernateOgrenci/view/VwOgrenci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmete/_04_HibernatePC/Proje.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmete/_04_HibernatePC/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmete/_04_HibernatePC/entity/Component.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmete/_04_HibernatePC/entity/Pc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmete/_04_HibernatePC/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmete/_04_HibernatePC/enums/EComponentType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmete/_04_HibernatePC/repository/ComponentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmete/_04_HibernatePC/repository/ICrud.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmete/_04_HibernatePC/repository/PcRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmete/_04_HibernatePC/repository/RepositoryManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmete/_04_HibernatePC/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmete/_04_HibernatePC/service/ComponentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmete/_04_HibernatePC/service/ICrudService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmete/_04_HibernatePC/service/PcService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmete/_04_HibernatePC/service/ServiceManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmete/_04_HibernatePC/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmete/_04_HibernatePC/utility/DemoData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmete/_05_HibernateRelations/OneToOne/UniDirectional/_01_PersonelSide/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmete/_05_HibernateRelations/OneToOne/UniDirectional/_01_PersonelSide/entity/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmete/_05_HibernateRelations/OneToOne/UniDirectional/_01_PersonelSide/entity/Personel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmete/_05_HibernateRelations/OneToOne/UniDirectional/_01_PersonelSide/repository/CarRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmete/_05_HibernateRelations/OneToOne/UniDirectional/_01_PersonelSide/repository/ICrud.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmete/_05_HibernateRelations/OneToOne/UniDirectional/_01_PersonelSide/repository/PersonelRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ahmete/_05_HibernateRelations/OneToOne/UniDirectional/_01_PersonelSide/repository/RepositoryManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="HibernateORM" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2lxhhBsDlXADIpOIZHTFCv4VuSA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.Runner.executor": "Run",
+    "Application.com.ahmete._04_HibernatePC.Runner.executor": "Run",
+    "Application.com.ahmete._05_HibernateRelations.OneToOne.UniDirectional._01_PersonelSide.Runner.executor": "Run",
+    "Gradle.Download Sources.executor": "Run",
+    "Gradle.HibernateORM [:com.ahmete.Main.main()].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/intellij/YotubeAPP/YoutubeApp",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editing.templates",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\intellij\14_Hibernate\HibernateORM\src\main\java\com\ahmete\_05_HibernateRelations\OneToOne\UniDirectional\_01_PersonelSide\repository" />
+      <recent name="C:\intellij\14_Hibernate\HibernateORM\src\main\java\com\ahmete\_00_hibernateUser" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.com.ahmete._04_HibernatePC.Runner">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ahmete.Main" />
+      <module name="HibernateORM.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ahmete.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ahmete._03_HibernateOgrenci.Runner" />
+      <module name="HibernateORM.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ahmete._03_HibernateOgrenci.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.ahmete._04_HibernatePC.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ahmete._04_HibernatePC.Runner" />
+      <module name="HibernateORM.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ahmete._04_HibernatePC.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.ahmete._05_HibernateRelations.OneToOne.UniDirectional._01_PersonelSide.Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ahmete._05_HibernateRelations.OneToOne.UniDirectional._01_PersonelSide.Runner" />
+      <module name="HibernateORM.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ahmete._05_HibernateRelations.OneToOne.UniDirectional._01_PersonelSide.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.ahmete._04_HibernatePC.Runner" />
+        <item itemvalue="Application.com.ahmete._05_HibernateRelations.OneToOne.UniDirectional._01_PersonelSide.Runner" />
+        <item itemvalue="Application.Runner" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.419" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.419" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fec452e-59f0-4500-937c-c209f78494e0" name="Changes" comment="" />
+      <created>1726127753256</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726127753256</updated>
+      <workItem from="1726127754602" duration="3081000" />
+      <workItem from="1726137351099" duration="1300000" />
+      <workItem from="1726214574068" duration="6162000" />
+      <workItem from="1726240528248" duration="5369000" />
+      <workItem from="1726326801524" duration="357000" />
+      <workItem from="1726328366046" duration="3694000" />
+      <workItem from="1726604049518" duration="4813000" />
+      <workItem from="1726612851239" duration="660000" />
+      <workItem from="1726639554854" duration="12517000" />
+      <workItem from="1726662951005" duration="865000" />
+      <workItem from="1726672354886" duration="2860000" />
+      <workItem from="1726685810929" duration="3662000" />
+      <workItem from="1726725779230" duration="11492000" />
+      <workItem from="1726743313558" duration="5000" />
+      <workItem from="1726744107454" duration="9671000" />
+      <workItem from="1726768472261" duration="4949000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
